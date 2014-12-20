@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 сам хуйня
+ваще хуйня
 public class MainActivity extends ActionBarActivity {
 
     @Override
